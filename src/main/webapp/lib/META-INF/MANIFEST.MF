@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: tamilselvi_s
+Build-Jdk: 1.6.0_26
+Copyright: Awired Network
+Project-Creator: Awired Network
+Project-CreatorId: net.awired.js
+Project-Name: yui
+Project-Version: 3.6.0
+Project-Website: http://awired.net/parent-java/js/yui/
+
